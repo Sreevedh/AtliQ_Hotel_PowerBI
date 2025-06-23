@@ -1,6 +1,6 @@
 # 📊 AtliQ Grnds Hotel Dashboard - (Power BI Project)
 
-This Power BI project is based on a fictional hotel **AtliQ Grands**, designed as part of a case study by [Codebasics](https://www.codebasics.io/). The objective was to analyze the hotel's **revenue performances** and provide business insights to stakeholders using interactive dashboards.
+This Power BI project is based on a fictional hotel **AtliQ Grands** (imaginary hotel), designed as part of a case study by [Codebasics](https://www.codebasics.io/). The objective was to analyze the hotel's **revenue performances** and provide business insights to stakeholders using interactive dashboards.
 
 ---
 
