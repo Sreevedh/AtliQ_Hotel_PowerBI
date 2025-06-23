@@ -56,16 +56,15 @@ Create relevant insights that are not provided in the metric list/mock-up dashbo
 
 ## 📈 Key Insights
 > **Property Perfromance**
-- At 1,582.29, W 19 had the highest DBRN and was 445.62% higher than W 32, which had the lowest DBRN at 290.﻿﻿
+-  W 19 had the highest DBRN and was 445.62% higher than W 32, which had the lowest DBRN at 290.﻿﻿
 ﻿﻿- DBRN and total DURN are positively correlated with each other.﻿﻿﻿﻿
 ﻿﻿- DBRN and DURN diverged the most when the week_number was W 24, when DBRN were 482 higher than DURN.﻿﻿
-﻿﻿- Across all 14 week_number, DBRN ranged from 290 to 1,582.29 and DURN ranged from 210.00 to 1110.00.
+﻿﻿- Across all 14 week number, DBRN ranged from 290 to 1,582.29 and DURN ranged from 210.00 to 1110.00.
 > **Room Performance**
-- At 23,440.10, Presidential had the highest ADR and was 191.10% higher than Standard, which had the lowest ADR at 8,052.36.﻿﻿
+- Presidential had the highest ADR and was 191.10% higher than Standard, which had the lowest ADR at 8,052.36.﻿﻿
 ﻿﻿- Presidential had the highest ADR at 23,440.10, followed by Premium, Elite, and Standard.﻿﻿﻿﻿
 ﻿﻿- Across all 4 room_class, ADR ranged from 8,052.36 to 23,440.10.﻿﻿﻿﻿
 ﻿﻿- Elite accounted for 32.79% of Revenue.﻿﻿﻿﻿
-﻿﻿- Presidential in day type weekend made up 13.47% of Occupancy%.﻿﻿
 ﻿﻿- Average Occupancy% was higher for weekend (0.63) than weekday (0.56).﻿﻿
 ﻿﻿- Occupancy% for weekend and weekday diverged the most when the room_class was Presidential, when weekend were 6.90% higher than weekday.
 > **Booking and Guest Experience**
